@@ -1,4 +1,4 @@
-# Machine-Learning-Course-Recommender-System-and-Course-Rating-Prediction
+# Machine-Learning-Course-Recommender-System
 IBM Machine Learning Capstone
 
 ## Project Description
